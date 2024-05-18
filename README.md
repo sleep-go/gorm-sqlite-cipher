@@ -25,7 +25,7 @@ This package can be installed with the go get command:
 
 ```go
 import (
-  sqliteEncrypt "github.com/jackfr0st13/gorm-sqlite-cipher"
+  sqliteEncrypt "github.com/sleep-go/gorm-sqlite-cipher"
   "gorm.io/gorm"
 )
 key := "passphrase"
